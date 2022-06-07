@@ -1,6 +1,6 @@
 # genesis-first-task
 ## Python
-You need download requests package:
+Firstly you need download requests package:
   ```sh
   pip install requests
   ```
