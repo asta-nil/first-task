@@ -1,7 +1,6 @@
 # genesis-first-task
 ## Python
-:
+You need download ###requests package:
   ```sh
   pip install requests
   ```
-then wait a little to access [localhost:8080](http://localhost:8080/)  
