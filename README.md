@@ -1,5 +1,5 @@
 # genesis-first-task
 ## Python
-  '''sh
+  ```sh
     pip install python-dotenv
-  '''
+  ```
